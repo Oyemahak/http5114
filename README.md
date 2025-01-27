@@ -27,3 +27,6 @@ To use the files in this repository:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Oyemahak/http5114
+2. Copy the Link of my markdown portfolio
+   ```bash
+   [Markdown Portfolio](https://oyemahak.github.io/markdown-portfolio/)
