@@ -29,3 +29,9 @@ This is ordered List:
 To place a link in markdown [] needed.
 
 [MahakPatel](https://mahakpatel.wixstudio.com/portfolio/)
+
+https://mahakpatel.wixstudio.com/portfolio/
+
+## Images
+
+<img src ="images/image.jpg" width="100" />
