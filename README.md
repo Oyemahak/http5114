@@ -28,5 +28,4 @@ To use the files in this repository:
    ```bash
    git clone https://github.com/Oyemahak/http5114
 2. Copy the Link of my markdown portfolio
-   ```bash
    [Markdown Portfolio](https://oyemahak.github.io/markdown-portfolio/)
