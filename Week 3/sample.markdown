@@ -35,3 +35,20 @@ https://mahakpatel.wixstudio.com/portfolio/
 ## Images
 
 <img src ="images/image.jpg" width="100" />
+
+## Code 
+
+You can add `code` inline usinf single tic.
+
+You can dd multiple line with multiple tics. 
+
+``` Javascript 
+var test = "String";
+```
+
+## Tables
+
+Column 1 | Column 2
+-------- | ---------
+Row 1    | Row 2
+Row 2    | Row 2
