@@ -1,4 +1,4 @@
-# HTTP-5114: Web Development 1 - Workshop Files
+# Workshops in Web Development 1
 
 This repository contains files and resources from the **Web Development 1 (HTTP-5114-0NA)** course workshops. These materials are designed to support hands-on learning and practice during the course.
 
@@ -6,19 +6,9 @@ This repository contains files and resources from the **Web Development 1 (HTTP-
 
 The Web Development 1 course focuses on the foundational skills required for web development, including:
 
-- Building web pages with HTML
-- Enhancing design using CSS
-- Adding interactivity with JavaScript
-- Applying principles of responsive design
-
-## Repository Structure
-
-The repository is organized as follows:
-
-- **/html/**: Contains HTML files from workshop activities.
-- **/css/**: Includes CSS stylesheets for styling web pages.
-- **/js/**: JavaScript files for functionality and interactivity.
-- **/assets/**: Resources such as images and other media used in the projects.
+- Git & GitHub basics
+- Markdown syntax
+- Basic HTML & CSS
 
 ## Getting Started
 
